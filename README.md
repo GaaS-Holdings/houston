@@ -1,5 +1,7 @@
 ## Rails
-```rails s```
+```
+rails s
+```
 ## JS
 ```
 npm vite dev
