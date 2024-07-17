@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  background-color: black;
+  .item {
+    color: white;
+    margin: 8px;
+    cursor: pointer;
+  }
+}
