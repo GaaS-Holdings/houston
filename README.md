@@ -1,9 +1,15 @@
-## Rails
+## Setup
+```
+rake db:migrate
+rake db:seed
+cd frontend
+npm install
+```
+
+## Run
 ```
 rails s
-```
-## JS
-```
-npm vite dev
+cd frontend
+npm run dev
 ``` 
 
